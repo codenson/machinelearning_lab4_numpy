@@ -7,7 +7,7 @@ a = np.arange(32).reshape((2,4,4))
 
 a = np.zeros((4,))
 b = np.arange(4.)
-# a = np.random.rand(4); 
+
 
 print(a)
 print(b)
